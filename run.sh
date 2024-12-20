@@ -1,3 +1,3 @@
 #!/bin/bash
 
-java -Xmx4G -Xms4G -jar server.jar nogui
+java -Xmx6G -Xms6G -jar server.jar nogui
